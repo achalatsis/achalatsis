@@ -1,0 +1,14 @@
+# Site settings
+title: Alex's home
+email: alex@chalatsis.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is my little place on the web. Some day it will grow up and become a
+  full featured site :)
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://achalatsis.github.io" # the base hostname & protocol for your site
+twitter_username: achalatsisc
+github_username:  achalatsis
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
